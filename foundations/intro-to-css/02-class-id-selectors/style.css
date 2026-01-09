@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.impares {
+    background:rgb(192, 162, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+/*The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px*/
+.fuente24{
+    font-size: 24px;
+}
+
+/** **The fourth element**: a light green background, a font size of 24px, and bold*/
+#fourth{
+    background: rgb(162, 189, 162);
+    font-weight: bold;
+}
